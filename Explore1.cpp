@@ -15,6 +15,10 @@ int main() {
     b.x = 4.5;
     b.y = 7.8;
 
+    Point c;
+    c.x = 1,9;
+    c.y = 7.4;
+
     cout << "Point a: x = " << a.x << ", y = " << a.y << endl;
     cout << "Point b: x = " << b.x << ", y = " << b.y << endl;
 
